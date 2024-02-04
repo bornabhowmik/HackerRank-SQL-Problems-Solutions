@@ -1,0 +1,1 @@
+SELECT NAME all from CITY where COUNTRYCODE='JPN';
