@@ -1,1 +1,1 @@
-SELECT * from CITY where COUNTRYCODE='JPN';
+-- SELECT * from CITY where COUNTRYCODE='JPN';
