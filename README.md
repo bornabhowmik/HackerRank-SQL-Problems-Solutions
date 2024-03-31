@@ -1,1 +1,1 @@
-"# HackerRank-SQL-Problems-Solutions" 
+# HackerRank-SQL-Problems-Solutions
